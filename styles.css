@@ -1,0 +1,27 @@
+#google-logo-image {
+    /* height: 92px; */
+    width: 350px;
+    /* aspect-ratio: auto 272 / 92; */
+}
+
+.index-links {
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.search {
+    width: 100%;
+    border-radius: 5px;
+}
+
