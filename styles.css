@@ -4,9 +4,11 @@
     /* aspect-ratio: auto 272 / 92; */
 }
 
-.index-links {
+.index-link {
     text-decoration: none;
-
+    float: right;
+    color: #696969;
+    font-family: Arial, sans-serif;
 }
 
 a:hover {
