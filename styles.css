@@ -20,7 +20,7 @@ a:hover {
     transform: translate(-50%, -50%);
 }
 
-.search {
+.search-text-input {
     width: 100%;
     border-radius: 20px;
     box-shadow: none;
@@ -29,8 +29,31 @@ a:hover {
     border-width: thin;
 }
 
+.search-buttons-div {
+    text-align: center;
+}
+
+.search-button {
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    border-radius: 4px;
+    color: #e8eaed;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
 input[type=text] {
     padding: 10px;
     margin: 10px 0;
 }
+
+
 
