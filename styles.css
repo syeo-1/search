@@ -27,6 +27,15 @@
     font-family: arial, sans-serif;
 }
 
+.advanced-search-subform {
+    float: left;
+    /* display: inline-block; */
+}
+
+.subform {
+    clear: both;
+}
+
 a:hover {
     text-decoration: underline;
 }
