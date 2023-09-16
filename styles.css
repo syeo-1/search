@@ -12,6 +12,10 @@
     padding-left: 15px;
 }
 
+#advanced-search-links {
+    overflow: hidden;
+}
+
 a:hover {
     text-decoration: underline;
 }
