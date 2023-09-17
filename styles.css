@@ -40,6 +40,7 @@
     vertical-align: middle;
     min-width: 167px;
     font-size: 13px;
+    height: 42px;
 }
 
 .advanced-search-form-header {
@@ -48,6 +49,10 @@
 
 .advanced-search-form {
     margin: 40px 2% 0 45px;
+}
+
+.advanced-search-text-input {
+    width: 50%;
 }
 
 .common-font {
@@ -74,6 +79,11 @@ a:hover {
     border-width: thin;
 }
 
+.search-text-input-form {
+    padding: 10px;
+    margin: 10px 0;
+}
+
 .search-buttons-div {
     text-align: center;
 }
@@ -95,10 +105,6 @@ a:hover {
     user-select: none;
 }
 
-input[type=text] {
-    padding: 10px;
-    margin: 10px 0;
-}
 
 
 
