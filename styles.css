@@ -29,11 +29,29 @@
 
 .advanced-search-subform {
     float: left;
-    /* display: inline-block; */
 }
 
 .subform {
     clear: both;
+}
+
+.advanced-search-text-form-prompt {
+    display: inline-block;
+    vertical-align: middle;
+    min-width: 167px;
+    font-size: 13px;
+}
+
+.advanced-search-form-header {
+    font-size: 16px;
+}
+
+.advanced-search-form {
+    margin: 40px 2% 0 45px;
+}
+
+.common-font {
+    font-family: Arial, sans-serif;    
 }
 
 a:hover {
