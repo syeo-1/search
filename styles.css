@@ -59,6 +59,15 @@
     padding: 1px 8px;
 }
 
+.advanced-search-button {
+    text-align: right;
+    width: 200%;
+}
+
+.advanced-search-button-input {
+    float: right;
+}
+
 .common-font {
     font-family: Arial, sans-serif;    
 }
